@@ -2,7 +2,7 @@ In short, It does the same thing as GNU-gsl `gnewton` solver for finding roots
 of a system of non-linear system.
 
 The standard caveats apply when finding the multi-dimensional roots.
-https://bestw.gnu.org/software/gsl/manual/html_node/Multidimensional-Root_002dFinding.html#Multidimensional-Root_002dFinding
+https://gnu.org/software/gsl/manual/html_node/Multidimensional-Root_002dFinding.html#Multidimensional-Root_002dFinding
 
 The templated class (must be compiled with  -std=c++11). It uses boost::numeric::ublas library.
 
